@@ -4,20 +4,30 @@ Python Library Created For BSM Robotics. Tested on Python versions 2.7 & 3
 
 ## Install
 
-```bash
-git clone https://github.com/BSMRKRS/bsmLib/ && cd bsmLib
-```
-
 **Python 2.7:**
 
 ```bash
-python setup.py install
+sudo -H pip install git+https://github.com/BSMRKRS/bsmLib.git
 ```
 
 **Python 3:**
 
 ```bash
-python3 setup.py install
+sudo -H pip3 install git+https://github.com/BSMRKRS/bsmLib.git
+```
+
+## Update
+
+**Python 2.7:**
+
+```bash
+sudo -H pip install --upgrade git+https://github.com/BSMRKRS/bsmLib.git
+```
+
+**Python 3:**
+
+```bash
+sudo -H pip3 install --upgrade git+https://github.com/BSMRKRS/bsmLib.git
 ```
 
 ## Modules

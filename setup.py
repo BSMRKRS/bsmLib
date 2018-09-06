@@ -1,13 +1,20 @@
 from setuptools import setup
 
+with open("docs/README.md", "r") as fh:
+    long_description = fh.read()
+
+with open("docs/LICENSE") as fh:
+    LICENSE = fh.read()
+
 setup(
     name="bsmLib",
     version="0.0.1",
     author="Andrew Voss",
     author_email="avoss19@bsmschool.org",
     description="Library for BSM Robotics",
-    long_description=open('docs/README.md').read(),
-    license=open('docs/LICENSE').read(),
+    long_description=long_description,
+    long_description_content_type="text/markdown",    
+    license=LICENSE,
     url="https://github.com/BSMRKRS/bsmLib/",
     packages=['bsmLib'],
     package_dir={'bsmLib': 'src/bsmLib'},
