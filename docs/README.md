@@ -16,6 +16,8 @@ sudo -H pip install git+https://github.com/BSMRKRS/bsmLib.git
 sudo -H pip3 install git+https://github.com/BSMRKRS/bsmLib.git
 ```
 
+\* Make sure the [dependencies](#dependencies) are installed
+
 ## Update
 
 **Python 2.7:**
@@ -70,8 +72,29 @@ bsmLib.RPL.servoWrite(0, 1000) # Write to pin 0
 
 ## Dependencies
 
-- serial - RoboPiLib
+- python-serial - RoboPiLib
+
+**Python 2.7**
+```bash
+sudo apt-get install python-serial
+```
+
+**Python 3**
+```bash
+sudo apt-get install python3-serial
+```
+
 - PyGame - Controller
+
+**Python 2.7**
+```bash
+sudo -H pip install pygame
+```
+
+**Python 3**
+```bash
+sudo -H pip3 install pygame
+```
 
 ## Troubleshooting
 

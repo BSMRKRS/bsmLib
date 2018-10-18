@@ -14,7 +14,7 @@ Vector math class
 `vector.copy()` - Returns copy of vector </br>
 `vecotr.heading()` - Returns calculated heading </br>
 `vecotr.mag()` - Returns calculated magnitude </br>
-`vector.set(x, y)` - Sets new (x, y) coordinates for vectors
+`vector.set(x, y)` - Sets new (x, y) coordinates for vectors </br>
 `vector.setHeading(radians)` - Set heading in radians </br>
 `vector.setMag(mag)` - Set magnitude </br>
 
