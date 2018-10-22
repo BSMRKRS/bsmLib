@@ -18,7 +18,7 @@ setup(
     url="https://github.com/BSMRKRS/bsmLib/",
     packages=['bsmLib'],
     package_dir={'bsmLib': 'src/bsmLib'},
-    install_requires=['pygame', 'Serial'],
+    install_requires=['pygame'],
     platforms=['any'],
     classifiers=(
         "Programming Language :: Python :: 2",
