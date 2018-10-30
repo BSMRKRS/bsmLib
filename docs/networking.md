@@ -49,7 +49,7 @@ t = tcpClient()
 t.connect()
 
 while(1):
-    print(c.recv())
+    print(t.recv())
 ```
 
 tcpServer:

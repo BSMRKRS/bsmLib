@@ -2,29 +2,8 @@
 
 Controller class written with pygame. Only tested with xbox controllers.
 
-## Driver Install
-
-Windows:
-- Driver comes pre-installed
-
-Mac:
-- requires this driver https://github.com/360Controller/360Controller/releases
-- If you are on High Sierra you will need to use this work arround to enable this driver's kext to load
-  - Open "System Preferences" and click "Keyboard" then "Input Sources" and enable keyboard access to "All controls" </br>
-  ![alt text](https://github.com/BSMRKRS/bsmLib/blob/master/docs/pics/keyboard.png)
-  - In "System Preferences" go to "Security & Privacy" and hit tab until the allow button is highlighted and hit space or enter. </br>
-  ![alt text](https://github.com/BSMRKRS/bsmLib/blob/master/docs/pics/allow.png)
-  - This issue happens on High Sierra due to not allowing any kext to be allowed while a monitoring software/screen controlling software is running like "LanSchool"
-
-Linux:
-```bash
-sudo git clone https://github.com/paroj/xpad.git /usr/src/xpad-0.4
-sudo dkms install -m xpad -v 0.4
-```
-
-https://github.com/paroj/xpad
-
 ## Object Variables
+
 `controller.A` - Digital value 0 or 1 for button "A" when pressed </br>
 `controller.B` - Digital value 0 or 1 for button "B" when pressed </br>
 `controller.X` - Digital value 0 or 1 for button "X" when pressed </br>
@@ -66,3 +45,25 @@ while(1):
     c.update()
     print(c)
 ```
+
+## Driver Install
+
+**Windows:**
+- Driver comes pre-installed
+
+**Mac:**
+- requires this driver https://github.com/360Controller/360Controller/releases
+- If you are on High Sierra you will need to use this work arround to enable this driver's kext to load
+  - Open "System Preferences" and click "Keyboard" then "Input Sources" and enable keyboard access to "All controls" </br>
+  ![alt text](https://github.com/BSMRKRS/bsmLib/blob/master/docs/pics/keyboard.png)
+  - In "System Preferences" go to "Security & Privacy" and hit tab until the allow button is highlighted and hit space or enter. </br>
+  ![alt text](https://github.com/BSMRKRS/bsmLib/blob/master/docs/pics/allow.png)
+  - This issue happens on High Sierra due to not allowing any kext to be allowed while a monitoring software/screen controlling software is running like "LanSchool"
+
+**Linux:**
+```bash
+sudo git clone https://github.com/paroj/xpad.git /usr/src/xpad-0.4
+sudo dkms install -m xpad -v 0.4
+```
+
+https://github.com/paroj/xpad

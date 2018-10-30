@@ -119,13 +119,13 @@ Reinstall Dependencies </br>
 **Python 2.7**
 ```bash
 pip install pygame
-pip install serial
+sudo apt-get install python-serial
 ```
 
 **Python 3**
 ```bash
 pip3 install pygame
-pip3 install serial
+sudo apt-get install python3-serial
 ```
 
 ## License
