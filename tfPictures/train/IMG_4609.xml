@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train - Copy</folder>
+	<filename>IMG_4609.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train - Copy\IMG_4609.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OrganicPeroxide</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>1</ymin>
+			<xmax>325</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FlammableSolid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>192</ymin>
+			<xmax>324</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Radioactive</folder>
+	<filename>Radioactive_12.jpg</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\Radioactive\Radioactive_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Radioactive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>167</ymin>
+			<xmax>295</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train - Copy</folder>
+	<filename>IMG_4583.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train - Copy\IMG_4583.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SpontaneouslyCombustible</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>82</ymin>
+			<xmax>283</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NonFlammableGas</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>242</ymin>
+			<xmax>378</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

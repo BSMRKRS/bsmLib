@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train - Copy</folder>
+	<filename>IMG_4566.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train - Copy\IMG_4566.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DangerousWhenWet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>79</ymin>
+			<xmax>283</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

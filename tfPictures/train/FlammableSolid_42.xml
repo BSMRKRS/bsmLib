@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FlammableSolid</folder>
+	<filename>FlammableSolid_42.jpg</filename>
+	<path>F:\HazmatlabelsBk\FlammableSolid\FlammableSolid_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FlammableSolid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>102</ymin>
+			<xmax>283</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

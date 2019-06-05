@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FlammableLiquid</folder>
+	<filename>FlammableLiquid_56.jpg</filename>
+	<path>F:\HazmatlabelsBk\FlammableLiquid\FlammableLiquid_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FlammableLiquid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>99</ymin>
+			<xmax>306</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

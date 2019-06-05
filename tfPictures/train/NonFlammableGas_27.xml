@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NonFlammableGas</folder>
+	<filename>NonFlammableGas_27.jpg</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\NonFlammableGas\NonFlammableGas_27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NonFlammableGas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>176</ymin>
+			<xmax>299</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

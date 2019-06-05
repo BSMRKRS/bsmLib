@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Oxidizer</folder>
+	<filename>Oxidizer_33.png</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\Oxidizer\Oxidizer_33.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxidizer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>57</ymin>
+			<xmax>216</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Oxidizer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>65</ymin>
+			<xmax>498</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SpontaneouslyCombustible</folder>
+	<filename>SpontaneouslyCombustible_14.jpg</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\SpontaneouslyCombustible\SpontaneouslyCombustible_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SpontaneouslyCombustible</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>137</ymin>
+			<xmax>286</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

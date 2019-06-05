@@ -1,0 +1,26 @@
+<annotation>
+	<folder>InfectiousSubstance</folder>
+	<filename>InfectiousSubstance_24.png</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\InfectiousSubstance\InfectiousSubstance_24.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>InfectiousSubstance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>212</ymin>
+			<xmax>592</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

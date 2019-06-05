@@ -1,0 +1,26 @@
+<annotation>
+	<folder>InhalationHazard</folder>
+	<filename>InhalationHazard_17.jpg</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\InhalationHazard\InhalationHazard_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>InhalationHazard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>102</ymin>
+			<xmax>359</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

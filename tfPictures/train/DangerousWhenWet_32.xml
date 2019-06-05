@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DangerousWhenWet</folder>
+	<filename>DangerousWhenWet_32.jpg</filename>
+	<path>F:\HazmatlabelsBk\DangerousWhenWet\DangerousWhenWet_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DangerousWhenWet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>15</ymin>
+			<xmax>401</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

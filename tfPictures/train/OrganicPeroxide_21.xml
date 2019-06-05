@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OrganicPeroxide</folder>
+	<filename>OrganicPeroxide_21.jpg</filename>
+	<path>C:\Users\Oriana Sampson\Desktop\Hazboi\OrganicPeroxide\OrganicPeroxide_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OrganicPeroxide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>165</ymin>
+			<xmax>307</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Corrosive</folder>
+	<filename>corrosive_1.jpg</filename>
+	<path>M:\HazmatlabelsBk\Corrosive\corrosive_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corrosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>137</ymin>
+			<xmax>1007</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
