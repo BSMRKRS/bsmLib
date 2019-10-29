@@ -80,14 +80,14 @@ apt-get build-dep python-pygame
 
 - python-serial - RoboPiLib
 
+**on MacOS**
+```bash
+sudo pip install pyserial
+```
+
 **Python 2.7**
 ```bash
 sudo apt-get install python-serial
-```
-
-on MacOS
-```bash
-sudo pip install pyserial
 ```
 
 **Python 3**
