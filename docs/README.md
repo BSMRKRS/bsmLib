@@ -72,11 +72,22 @@ bsmLib.RPL.servoWrite(0, 1000) # Write to pin 0
 
 ## Dependencies
 
+**Raspian** 
+- (you can install all dependencies with one command)
+```bash
+apt-get build-dep python-pygame
+```
+
 - python-serial - RoboPiLib
 
 **Python 2.7**
 ```bash
 sudo apt-get install python-serial
+```
+
+on MacOS
+```bash
+sudo pip install pyserial
 ```
 
 **Python 3**
